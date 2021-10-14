@@ -573,9 +573,6 @@ body {
 .send-icon {
   margin-left: 10px;
 }
-.button-send {
-  align-self: flex-end;
-}
 /* //////////PORTFOLIO//////////  */
 .button {
   background-color: var(--buttons-color-portfolio);
